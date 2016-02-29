@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnnotationDrawableDemo</string>
+    <string name="str_default">gps定位中...</string>
+</resources>
